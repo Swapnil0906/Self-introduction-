@@ -8,7 +8,8 @@ This repository contains my self-introduction video.
 - University: VIT Bhopal University  
 
 ## 📹 Video File
-- intro-video.mp4  
+- Self-intro.mp4  
 
-This video is created as part of an academic task to introduce myself.# Self-introduction-
+This video is created as part of an academic task to introduce myself.
+# Self-introduction-
 This folder contains about me. 
